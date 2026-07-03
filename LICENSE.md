@@ -1,4 +1,4 @@
-# 
+# Avanzado ImageSense script. Descarga e instala con modo sin conexión y escalable — rápido, seguro y fácil de usar.
 
 
 
